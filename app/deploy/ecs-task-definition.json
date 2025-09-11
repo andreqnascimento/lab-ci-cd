@@ -42,8 +42,8 @@
         }
     ],
     "family": "ci-cd-app",
-    "taskRoleArn": "arn:aws:iam::390082648959:role/LabRole",
-    "executionRoleArn": "arn:aws:iam::390082648959:role/LabRole",
+    "taskRoleArn": "arn:aws:iam::390082648959:role/EMR_EC2_DefaultRole",
+    "executionRoleArn": "arn:aws:iam::390082648959:role/EMR_EC2_DefaultRole",
     "networkMode": "awsvpc",
     "volumes": [],
     "placementConstraints": [],
